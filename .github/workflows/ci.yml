@@ -1,4 +1,4 @@
-name: ci_checkversion
+name: ci_runtests
 
 on:
   pull_request:
